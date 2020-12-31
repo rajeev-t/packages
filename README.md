@@ -9,5 +9,6 @@ Add key and source package list
 
 Installation
 
-sudo apt update
-sudo apt install cpp-intr
+    sudo apt update
+    
+    sudo apt install cpp-intr
