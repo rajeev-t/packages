@@ -14,3 +14,19 @@ Priority: optional
 Description: Introduction to CPP, GPS and test
  Introduction to CPP
 
+Package: cpp-intro
+Version: 1.1.0
+Architecture: amd64
+Maintainer: thimmareddyrajeev@@gmail.com
+Installed-Size: 7307
+Depends: libc6 (>= 2.31)
+Filename: ./cpp-intro_1.1.0_ubuntu_focal_amd64.deb
+Size: 1871140
+MD5sum: c64c8aa63ddb159ffdd29671fa4b954b
+SHA1: e0b03bf8badf6a75850ceb289e93c54fe725aa56
+SHA256: 0f75dc59e744bfdeea972d8651e1dc347e914cc0c8a4b612c6b01268792406f7
+Section: utils
+Priority: optional
+Description: Introduction to CPP, GPS and test
+ Introduction to CPP
+
